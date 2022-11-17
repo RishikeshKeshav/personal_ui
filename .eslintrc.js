@@ -14,5 +14,10 @@ module.exports = {
   rules: {
     "@typescript-eslint/quotes": 0,
     "@typescript-eslint/semi": 0,
+    "@typescript-eslint/no-unused-vars": 0,
+    "no-debugger": 0,
+    "@typescript-eslint/restrict-template-expressions": 0,
+    "@typescript-eslint/no-non-null-assertion": 1,
+    "@typescript-eslint/restrict-plus-operands": 1,
   },
 };
